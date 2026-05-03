@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Img/pratik.svg" />
+</p>
+
 # LEETCODE INFO
 <p align="center">
   <a href="https://leetcode.com/u/Pratik_Devadhe/">
