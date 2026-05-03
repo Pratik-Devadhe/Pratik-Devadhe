@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="200" viewBox="0 0 500 200">
+  <defs>
+    <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#00d2ff;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#3a7bd5;stop-opacity:1" />
+    </linearGradient>
+    <style>
+      .name { 
+        font: bold 45px 'Segoe UI', Ubuntu, Sans-Serif; 
+        fill: #fff; 
+        text-transform: uppercase;
+      }
+      .title { 
+        font: 20px 'Segoe UI', Ubuntu, Sans-Serif; 
+        fill: #e1e1e1; 
+      }
+    </style>
+  </defs>
+  
+  <!-- Background Card -->
+  <rect width="100%" height="100%" rx="15" fill="#1a1a1a" />
+  
+  <!-- Decorative Gradient Element -->
+  <rect width="10" height="100" x="0" y="50" fill="url(#grad1)" />
+
+  <!-- Name -->
+  <text x="40" y="90" class="name">Pratik Devadhe</text>
+  
+  <!-- Subtitle/Role (Adjust as needed) -->
+  <text x="40" y="130" class="title">Full Stack Developer &amp; UI Designer</text>
+  
+  <!-- Optional: Subtle border -->
+  <rect x="1" y="1" width="498" height="198" rx="15" fill="none" stroke="#333" stroke-width="1" />
+</svg>

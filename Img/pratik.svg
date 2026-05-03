@@ -1,0 +1,40 @@
+<svg width="700" height="200" viewBox="0 0 700 200" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .word {
+      font-family: 'Pacifico', cursive;
+      font-size: 64px;
+      fill: #00C2FF;
+      opacity: 0;
+    }
+
+    .word1 {
+      animation: fadeIn 1.5s ease forwards;
+    }
+
+    .word2 {
+      animation: fadeIn 1.5s ease forwards;
+      animation-delay: 1.8s;
+    }
+
+    @keyframes fadeIn {
+      from {
+        opacity: 0;
+        transform: translateY(10px);
+      }
+      to {
+        opacity: 1;
+        transform: translateY(0);
+      }
+    }
+  </style>
+
+  <!-- First word -->
+  <text x="50%" y="45%" text-anchor="middle" dominant-baseline="middle" class="word word1">
+    Pratik
+  </text>
+
+  <!-- Second word -->
+  <text x="50%" y="75%" text-anchor="middle" dominant-baseline="middle" class="word word2">
+    Devadhe
+  </text>
+</svg>
