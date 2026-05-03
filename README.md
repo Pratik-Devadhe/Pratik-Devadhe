@@ -12,5 +12,8 @@
   <a href="https://leetcode.com/u/Pratik_Devadhe/">
     <img src="https://assets.leetcode.com/static_assets/others/25100.gif" alt="LeetCode Badge3" width="200"/>
   </a>
+  <a href="https://leetcode.com/u/Pratik_Devadhe/">
+    <img src="https://assets.leetcode.com/static_assets/marketing/365_new.gif" alt="LeetCode Badge3" width="200"/>
+  </a>
 </p>
 
