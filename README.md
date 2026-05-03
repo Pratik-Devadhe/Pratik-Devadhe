@@ -47,7 +47,6 @@
 
 ![](https://skills.syvixor.com/api/icons?i=arduino,raspberrypi&perline=18)
 
-##
 
 <h4><b><samp>Operating Systems </samp></b></h4>
 
