@@ -20,6 +20,45 @@
   </a>
 </p>
 
+##
+<h3><b><samp>Skills</samp></b></h3>
+
+<h4><b><samp>Languages</samp></b></h4>
+
+![](https://skills.syvixor.com/api/icons?i=cpp,c,python,js,java&perline=18)
+
+<h4><b><samp>DevOps</samp></b></h4>
+
+![](https://skills.syvixor.com/api/icons?i=git,docker,kubernetes&perline=18)
+
+<h4><b><samp>Frontend</samp></b></h4>
+
+![](https://skills.syvixor.com/api/icons?i=html,css,tailwind,javascript,bootstrap,react,md&perline=18)
+
+<h4><b><samp>Backend</samp></b></h4>
+
+![](https://skillicons.dev/icons?i=nodejs,php,postman,express&perline=18)
+
+<h4><b><samp>Database</samp></b></h4>
+
+![](https://skills.syvixor.com/api/icons?perline=18&i=postgresql,mysql,mongodb)
+
+<h4><b><samp>Electronics and IoT</samp></b></h4>
+
+![](https://skills.syvixor.com/api/icons?i=arduino,raspberrypi&perline=18)
+
+##
+
+<h4><b><samp>Operating Systems </samp></b></h4>
+
+![](https://skills.syvixor.com/api/icons?i=windows,linux,ubuntu&perline=18)
+
+  
+  
+<hr>
+
+
+
 # Contact Me 
 <p align="center" >
   
